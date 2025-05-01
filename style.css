@@ -30,10 +30,10 @@ aside > ul > li {
 }
 
     main picture img {
-    display:flex;
+        width: 100%;
+    display: flex;
     max-width: 600px;
-    min-width: 300px;
-    
+    min-width: 300px;   
     border-radius: 15px;
 }
 
