@@ -8,8 +8,6 @@ body {
 }
 
 main {
-    max-width: 500px;
-    min-width: 300px;
     background-color: white;
     margin: auto;
     width: 45%;
@@ -33,6 +31,8 @@ aside > ul > li {
 
     main picture img {
     max-width: 600px;
+        min-width: 300px;
+        display:flex;
     border-radius: 15px;
 }
 
