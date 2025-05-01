@@ -8,6 +8,8 @@ body {
 }
 
 main {
+    max-width: 500px;
+    min-width: 300px;
     background-color: white;
     margin: auto;
     width: 45%;
